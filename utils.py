@@ -643,10 +643,10 @@ async def send_all(bot, userid, files, ident):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                        InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                        InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                        InlineKeyboardButton('Mᴏᴠɪᴇs Gʀᴏᴜᴘ', url=f"t.me/tamizh_Movies_Hub"),
+                        InlineKeyboardButton('Mᴏᴠɪᴇs Cʜᴀɴɴᴇʟ', url=f"t.me/tamizh_Movies_Hub")
                     ],[
-                        InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/creatorbeatz")
+                        InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/attitudeking_vj")
                         ]
                     ]
                 )
