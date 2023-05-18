@@ -157,10 +157,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f"t.me/tamizh_Movies_Hub"),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f"t.me/tamizh_Movies_Hub")
-                       ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/attitudeking_vj")
+                          InlineKeyboardButton("Tᴀᴍɪᴢʜ Mᴏᴠɪᴇs HᴜB", url="t.me/tamizh_Movies_Hub")
                          ]
                         ]
                     )
@@ -176,10 +173,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f"t.me/tamizh_Movies_Hub"),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f"t.me/tamizh_Movies_Hub")
-                       ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/attitudeking_vj")
+                          InlineKeyboardButton("Tᴀᴍɪᴢʜ Mᴏᴠɪᴇs HᴜB", url="t.me/Tamizh_Movies_HuB")
                          ]
                         ]
                     )
@@ -294,10 +288,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f"t.me/tamizh_Movies_Hub"),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f"t.me/tamizh_Movies_Hub")
-                   ],[
-                      InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/attitudeking_vj")
+                      InlineKeyboardButton("Tᴀᴍɪᴢʜ Mᴏᴠɪᴇs HᴜB", url="t.me/tamizh_Movies_Hub")
                      ]
                     ]
                 )
@@ -347,10 +338,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f"t.me/tamizh_Movies_Hub"),
-              InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f"t.me/tamizh_Movies_Hub")
-           ],[
-              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/attitudeking_vj")
+              InlineKeyboardButton("Tᴀᴍɪᴢʜ Mᴏᴠɪᴇs HᴜB", url="t.me/tamizh_Movies_Hub")
              ]
             ]
         )
