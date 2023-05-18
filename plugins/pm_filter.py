@@ -710,10 +710,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         reply_markup=InlineKeyboardMarkup(
                             [
                              [
-                              InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f"t.me/tamizh_Movies_Hub"),
-                              InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f"t.me/tamizh_Movies_Hub")
-                           ],[
-                              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/attitudeking_vj")
+                              InlineKeyboardButton("Tamizh Movies HuB", url="t.me/Tamizh_Movies_HuB")
                              ]
                             ]
                         )
@@ -782,10 +779,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                  InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f"t.me/tamizh_Movies_Hub"),
-                  InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f"t.me/tamizh_Movies_Hub")
-               ],[
-                  InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/attitudeking_vj")
+                  InlineKeyboardButton("Tamizh Movies HuB", url="t.me/tamizh_Movies_HuB")
                  ]
                 ]
             )
