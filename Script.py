@@ -194,8 +194,7 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 
-▫️ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : @Tamizh_Movies_Hub
-▫️ ᴍᴏᴠɪᴇs ɢʀᴏᴜᴘ : @TamizhMoviesHub</b>"""
+▫️ Mᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : @Tamizh_Movies_Hub</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
